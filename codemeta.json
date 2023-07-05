@@ -13,20 +13,20 @@
     "author": [
         {
             "@type": "Person",
-            "givenName": "Florent",
-            "familyName": "Chuffart",
-            "email": "florent.chuffart@gmail.com",
+            "givenName": "Alain",
+            "familyName": "Monteil",
+            "email": "alain.monteil@inria.fr",
             "affiliation": {
                 "@type": "Organization",
-                "name": "INSERM"
+                "name": "INRIA"
             }
         }
     ],
     "contributor": [
         {
             "@type": "Person",
-            "givenName": "Magali",
-            "familyName": "Richard"
+            "givenName": "Estelle",
+            "familyName": "Nivault"
         }
     ]
 }
